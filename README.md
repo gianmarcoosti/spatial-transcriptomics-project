@@ -26,7 +26,3 @@ The analysis involved loading the dataset, performing quality control, normaliza
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Usage
-
-The analysis workflow is contained within the `spatial_transcriptomics_analysis.ipynb` Jupyter Notebook.
