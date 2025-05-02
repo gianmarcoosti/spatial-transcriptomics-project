@@ -17,8 +17,7 @@ The analysis involved loading the dataset, performing quality control, normaliza
 ## Data Source
 
 - 10x Genomics Public Dataset: "FFPE Human Melanoma IF-Stained Visium Spatial Gene Expression Dataset"
-- Link: [https://www.10xgenomics.com/resources/datasets/human-melanoma-whole-transcriptome-if-stained-ffpe-1-standard-1-3-0](https://www.10xgenomics.com/resources/datasets/human-melanoma-whole-transcriptome-if-stained-ffpe-1-standard-1-3-0)
-
+- Link: [[https://www.10xgenomics.com/resources/datasets/human-melanoma-whole-transcriptome-if-stained-ffpe-1-standard-1-3-0](https://www.10xgenomics.com/datasets/human-melanoma-if-stained-ffpe-2-standard)
 ## Software & Libraries
 
 - Python 3
